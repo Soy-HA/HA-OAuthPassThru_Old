@@ -11,3 +11,7 @@ ports:
 auth_api:
 websocket_api:
 startup: services
+options:
+  test: "TEST"
+schema:
+  test: str
