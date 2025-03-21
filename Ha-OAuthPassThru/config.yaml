@@ -1,6 +1,7 @@
 name: "HA-OAuthPassThru"
 version: "1.1.0"
 slug: "HA-OAuthPassThru"
+init: false
 description: >-
   "Just a server to simply allow apps to OAuth and use Home Assist Login while providing user logins" 
 arch:
