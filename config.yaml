@@ -1,11 +1,11 @@
-name: "HA-OAuthPassThru"
+Aname: "HA-OAuthPassThru"
 version: "1.1.0"
 slug: folder
 description: >-
   "Just a server to simply allow apps to OAuth and use Home Assist Login while providing user logins" 
 arch:
   - amd64
-url: "https://github.com/Soy-HA/HA-OauthPassThru/readme.md"
+url: "https://github.com/Soy-HA/HA-OauthPassThru/README.md"
 ports:
   80/tcp: 2010
 auth_api:
