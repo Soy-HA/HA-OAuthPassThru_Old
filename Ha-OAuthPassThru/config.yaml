@@ -1,4 +1,4 @@
-Aname: "HA-OAuthPassThru"
+name: "HA-OAuthPassThru"
 version: "1.1.0"
 slug: "HA-OAuthPassThru"
 description: >-
